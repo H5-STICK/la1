@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="España",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
